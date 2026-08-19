@@ -1,2 +1,2 @@
 project contects
-https://onedrive.live.com/personal/8B86EE65F4043D2D/_layouts/15/doc2.aspx?resid=13cb54c1-6819-4098-8335-7d7c09d90481&cid=8b86ee65f4043d2d(ybs öğrencisi not takip sistemi)
+https://excel.cloud.microsoft/open/onedrive/?docId=8B86EE65F4043D2D%21s13cb54c16819409883357d7c09d90481&driveId=8B86EE65F4043D2D(ybs öğrencisi not takip sistemi)
