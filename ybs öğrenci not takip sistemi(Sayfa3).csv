@@ -1,0 +1,26 @@
+﻿ybs öğrenci not takip sistemi;;;;;
+Ders;Vize;Final;Ortalama;Durum;Kredi
+matematik;65;78;71,5;geçti;5
+muhasabe;72;60;66,0;geçti;4
+programlama;85;90;87,5;geçti;5
+iktisat;55;70;62,5;geçti;3
+ingilizce;80;75;77,5;geçti;4
+yönetim bilişim sistemleri;68;82;75,0;geçti;
+hesaplama tarihi;19.08.2026;hesaplama saati;0,9;kaldı;
+istatistikler;;;;;
+en yüksek ortalama;87,5;;;;
+en düşük ortalama;62,5;;;;
+derslerin ortalaması;73,33333333;;;;
+ortanca;73,25;;;;
+;;;;;
+not özeti;;;;;
+en yüksek vize;85;;;;
+en düşük vize;55;;;;
+vize ortalaması;70,8;;;;
+en yüksek final;90;;;;
+en düşük final;60;;;;
+final ortalaması;75,8;;;;
+;;;;;
+ders durum özeti;;;;;
+geçtiğim ders sayısı;6;;;;
+kaldığım ders sayısı;1;;;;
