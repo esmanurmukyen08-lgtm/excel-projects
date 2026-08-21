@@ -1,0 +1,22 @@
+﻿tarih;kategori;açıklama;tutar;ödeme türü;durum
+21.08.2026;yemek;öğle yemeği; ₺180,00 ;kart;yüksek
+24.08.2026;ulaşım;izmirim kart; ₺100,00 ;nakit;yüksek
+27.08.2026;eğlence;sinema; ₺250,00 ;kart;yüksek
+30.08.2026;eğitim;kitap; ₺350,00 ;nakit;yüksek
+2.09.2026;yemek;kahve; ₺120,00 ;kart;yüksek
+5.09.2026;alışveriş;kıyafet; ₺600,00 ;kart;yüksek
+8.09.2026;ulaşım ;otobüs; ₺50,00 ;nakit;normal
+11.09.2026;yemek;akşam yemeği; ₺300,00 ;kart;yüksek
+harcama özeti;;;;;
+toplam harcama;;; ₺1.950,00 ;;
+en yüksek harcama;;; ₺600,00 ;;
+en düşük harcama;;; ₺50,00 ;;
+ortalama harcama;;; ₺243,75 ;;
+ortanca harcama;;; ₺215,00 ;;
+;;;;;
+ödeme özeti;;;;;
+kart ile yapılan harcama;5;;;;
+nakit ile yapılan harcama;3;;;;
+;;;;;
+son gücelleme tarihi;21.08.2026;;;;
+son güncelleme saati;14:37;;;;
